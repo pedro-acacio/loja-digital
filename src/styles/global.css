@@ -1,17 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Segoe UI', sans-serif;
-    color:#000;
-    text-decoration: none;
-    list-style: none;
-}
 
-html, body {
-    height: 100%;
-
-}
 
 header {
     nav {
@@ -28,6 +15,7 @@ header {
                 text-transform: capitalize;
                 font-weight: 700;
                 color: #c92071;
+                margin-bottom: 2px;
             }
         }
     }
